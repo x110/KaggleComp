@@ -1,5 +1,4 @@
 # Kaggle Competitions
-Kaggle is a platform to do data science competitions/projects.
 
 **No.**|  **Competition**                    |  **Code**  |  **Completed**
 ---------|-----------------------------------|-------------------|--------------------
